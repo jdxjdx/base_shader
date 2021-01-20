@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="886b2edd-7916-48c1-9d8f-938a311a165e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2018.4.23f1/Editor/Data/CGIncludes/UnityLightingCommon.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2018.4.23f1/Editor/Data/CGIncludes/UnityCG.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2018.4.23f1/Editor/Data/CGIncludes/AutoLight.cginc" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Shaders/Test_1.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Snow.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Diffuse.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/specular.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/frag_haflLambat_Diffues.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/vert_Diffuse.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/vert_specular.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/frag_blinn_specular_normalmap.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/frag_haflLambat_Diffues_map.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/frag_Diffuse.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/frag_specular.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/frag_blinn_specular.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/frag_blinn_specular_normalmap_worldSpace.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/frag_blinn_specular_normalmap_worldSpace_maskTexture.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/ColorMask_RGBA.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Alpha_Blend_zwrite.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Alpha_Blend.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Alpha_Blend_zwrite_1.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/ColorMask.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/defult.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Alpha_Test.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/LightingRendering/frag_blinn_specular 1.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/LightingRendering/Chapter9-Shadow.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/LightingRendering/ForwardRendering.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/LightingRendering/ForwardRenderingUseBuildInFunc.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/Map/Reflect.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/UPR/TestUPR.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/NPR/TestNPR 1.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/NPR/TestNPR_Step.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/NPR/TestNPR.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/NPR/Fresnel_NPR.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/NPR/Tone Based Shadingl.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/NPR/TestNPR_1.shader" />
+      <option value="$PROJECT_DIR$/Assets/Shaders/NPR/TestNPR_noRampMap.shader" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1mHjrwiBDIKSKtiEsTf2txxxMfa" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="886b2edd-7916-48c1-9d8f-938a311a165e" name="Default Changelist" comment="" />
+      <created>1609157612865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609157612865</updated>
+      <workItem from="1609157620795" duration="359000" />
+      <workItem from="1609935040184" duration="2136000" />
+      <workItem from="1609987939262" duration="41000" />
+      <workItem from="1609987993078" duration="27000" />
+      <workItem from="1609988069603" duration="19538000" />
+      <workItem from="1610075946551" duration="13229000" />
+      <workItem from="1610332937339" duration="8820000" />
+      <workItem from="1610411736094" duration="26805000" />
+      <workItem from="1610501030078" duration="15541000" />
+      <workItem from="1610590214731" duration="2838000" />
+      <workItem from="1610593602071" duration="11668000" />
+      <workItem from="1610678705947" duration="15977000" />
+      <workItem from="1610938944041" duration="13994000" />
+      <workItem from="1611021901231" duration="5478000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
